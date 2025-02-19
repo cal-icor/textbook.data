@@ -24,7 +24,7 @@ If you need to **add files** to this repository, follow these steps:
 
 ### 5️⃣ **Submit a Pull Request (PR)**  
 - Make sure your PR **comes from the branch you created** (named after your course).  
-- Follow the [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md) to ensure compliance.  
+- Follow the [Pull Request Template](.github/pull_request_template.md) to ensure compliance.  
 - Confirm that your files can be accessed via URL in a Jupyter notebook.  
 
 ## 🛠 Need Help?  
