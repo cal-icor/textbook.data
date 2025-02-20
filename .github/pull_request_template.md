@@ -5,7 +5,7 @@
 - [ ] My pull request **does not modify any other folders** except the one I created.  
 
 #### 📄 **File Types**  
-- [ ] My folder contains only data files (`.csv`, `.json`, `.xlsx`, etc.) and/or Python files (`.py`).  
+- [ ] My folder contains only data files (`.csv`, `.json`, `.xlsx`, etc.) and/or Python files (`.py`) and/or Images: `.jpg`, `.jpeg`, `.png`, `.svg`, `etc.`.  
 
 #### 📏 **File Size**  
 - [ ] Each file is **under 50MB**.  
