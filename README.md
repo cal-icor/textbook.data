@@ -16,7 +16,8 @@ If you need to **add files** to this repository, follow these steps:
 
 ### 3️⃣ **Upload Only Approved File Types**  
 - **Data files**: `.csv`, `.json`, `.xlsx`, etc.  
-- **Python scripts**: `.py`  
+- **Python scripts**: `.py`
+- **Images**: `.jpg`, `.jpeg`, `.png`, `.svg`, etc.
 
 ### 4️⃣ **Ensure Files Are Under 50MB**  
 - If a file **exceeds 50MB**, **split** it into multiple smaller files.  
