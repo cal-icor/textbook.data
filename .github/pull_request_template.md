@@ -1,7 +1,7 @@
 # File Upload
 
-#### 📂 **Course Folder**  
-- [ ] I have uploaded my files in a new folder named after my course (e.g., `data-8/`, `espm-163/`, `econ-148/`, etc.).  
+#### 📂 **Course Folder**
+- [ ] I have uploaded my files in a new folder named after my course (e.g., `data-8/`, `espm-163/`, `econ-148/`, etc.). This folder exists within another folder for my university/institution (e.g. `ucb/`, `sdsu/`, etc.)
 - [ ] My pull request **does not modify any other folders** except the one I created.  
 
 #### 📄 **File Types**  
