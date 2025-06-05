@@ -1,5 +1,7 @@
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
+import pandas as pd
+import matplotlib.pyplot as plt
 
 le = pd.read_csv('https://cal-icor.github.io/textbook.data/ucb/cogsci-1/life-expectancy.csv')
 le = le.dropna()
