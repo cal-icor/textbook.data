@@ -1,7 +1,7 @@
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-le = pd.read_csv('data/life-expectancy.csv')
+le = pd.read_csv('https://cal-icor.github.io/textbook.data/ucb/cogsci-1/life-expectancy.csv')
 le = le.dropna()
 
 train, test = train_test_split(le, test_size = 0.1, random_state = 42)
